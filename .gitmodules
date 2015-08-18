@@ -1,0 +1,6 @@
+[submodule "GRCoreDataUtilsSwift"]
+	path = GRCoreDataUtilsSwift
+	url = https://github.com/gnatsel/GRCoreDataUtilsSwift.git
+[submodule "GRPresenterSwift"]
+	path = GRPresenterSwift
+	url = https://github.com/gnatsel/GRPresenterSwift.git
